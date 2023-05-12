@@ -1,16 +1,15 @@
-### Hi there 👋
+### bem vindo ao meu perfil 👋
 
-<!--
-**sergiohenryque/sergiohenryque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Henryque 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo meu espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+sergio.cumpian@escola.pr.gov.br
+
+@henryquecumpian
+
+![](https://media.tenor.com/ldWVE-JVx7MAAAAC/oi.gif)
